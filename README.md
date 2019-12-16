@@ -9,8 +9,8 @@ Download the scripts, check permissions and run 🥳 or ...
 
 via command-line with curl
 
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/underwoodmachine/speech-songs/master/NeverGonnaRalphYouUp.sh)"`
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/thunderpoot/speech-songs/master/NeverGonnaRalphYouUp.sh)"`
 
 or with wget
 
-`sh -c "$(wget -qO- https://raw.githubusercontent.com/underwoodmachine/speech-songs/master/NeverGonnaRalphYouUp.sh)"`
+`sh -c "$(wget -qO- https://raw.githubusercontent.com/thunderpoot/speech-songs/master/NeverGonnaRalphYouUp.sh)"`

@@ -1,3 +1,7 @@
+#!/bin/bash
+
+# "All Star" by Smash Mouth
+
 say -vral "[[inpt TUNE]]
 _
 s {D 170; P 220.0:0 220.0:24 220.0:44 220.0:72}

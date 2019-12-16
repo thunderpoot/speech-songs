@@ -5,7 +5,9 @@ Various songs transcribed for Mac OS X Speech Synthesis Markup Language
 
 ### How to use:
 
-Via command-line with curl
+Download the scripts, check permissions and run 🥳 or ...
+
+via command-line with curl
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/underwoodmachine/speech-songs/master/NeverGonnaRalphYouUp.sh)"`
 

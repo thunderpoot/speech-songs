@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# "Never Gonna Give You Up" by Rick Astley
+
 say -vral "[[inpt TUNE]]
 
 _n {D 30; P 193.0:0 193.0:37 202.0:68 202.0:84}

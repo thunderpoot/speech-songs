@@ -14,3 +14,8 @@ via command-line with curl
 or with wget
 
 `sh -c "$(wget -qO- https://raw.githubusercontent.com/thunderpoot/speech-songs/master/NeverGonnaRalphYouUp.sh)"`
+
+Optionally watch the video too
+
+`curl https://raw.githubusercontent.com/thunderpoot/speech-songs/master/NeverGonnaScaleYouUp.txt`
+_(256 colour support required)_

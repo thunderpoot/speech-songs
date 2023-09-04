@@ -33,3 +33,6 @@ _(256 colour support required)_
 ### Other voices
 
 Additionally, if you don't like Ralph's voice, you may use other old voices such as Victoria, or Trinoids.  To use these, download them via System Preferences (as seen above) and modify the scripts to use the corresponding three-letter abbreviation instead of `-vral`, e.g `-vvic` or `-vtri`.
+
+
+Rest in peace, Steve Harwell. </3
